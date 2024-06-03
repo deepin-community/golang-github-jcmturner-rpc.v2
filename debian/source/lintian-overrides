@@ -1,0 +1,2 @@
+#Lintian bug #1014885
+golang-github-jcmturner-rpc.v2 source: unknown-field Go-Import-Path
